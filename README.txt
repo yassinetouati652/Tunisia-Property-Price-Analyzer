@@ -40,6 +40,5 @@ etc..
 ##Files:
 
 -Tunisia Property Price Analyzer.ipynb – analysis notebook
-
-
 -Property Prices in Tunisia.csv – dataset
+
