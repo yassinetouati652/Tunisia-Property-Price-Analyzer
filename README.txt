@@ -11,7 +11,11 @@ The goal is to explore price differences between cities and understand how prope
 
 -Simple statistical analysis of prices
 
--Visualizations comparing average property prices by city
+##Visualizations:
+-comparing average property prices by city
+-price range and distribution across different property categories
+-Relationship between property size and price
+etc..
 
 ##Tools used:
 
@@ -36,5 +40,6 @@ The goal is to explore price differences between cities and understand how prope
 ##Files:
 
 -Tunisia Property Price Analyzer.ipynb – analysis notebook
+
 
 -Property Prices in Tunisia.csv – dataset
